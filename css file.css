@@ -1,0 +1,69 @@
+body {
+background-color: black;
+background-image: url("https://static.pexels.com/photos/464258/stars-nightsky-milky-way-darkness-464258.jpeg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+font-family: calibri, sans-serif;
+}
+* {box-sizing: border-box;}
+div {
+display: inline-block;
+background-color: rgba(30, 34, 37, 0.8);
+padding: 2%;
+margin: 5px;
+}
+.menu {
+width: 15%;
+float: left;
+}
+.main {
+width: 80%;
+}
+.home {
+  width: 80%;
+}
+h1 {
+color: white;
+text-align: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+h2 {
+color: white;
+text-align: center;
+}
+h3 {
+color: white;
+text-align: center;
+font-size: 15pt;
+}
+h4 {
+color: white;
+columns: 2;
+font-size: 14pt;
+}
+p {
+color: white;
+font-size: 14pt;
+}
+.c1 {
+color: red;
+}
+.c2 {
+color: green;
+}
+.c3 {
+color: blue;
+}
+.c4 {
+color: purple;
+}
+.c5 {
+color: orange;
+}
+a {
+color: lightblue;
+}
+img {
+text-align: center;
+}

@@ -26,7 +26,8 @@ width: 80%;
 .copyright {
 text-align: center;
 font-size: 10pt;
-color: white;
+font-color: white;
+padding: 1%;
 }
 h1 {
 color: white;

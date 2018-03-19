@@ -24,7 +24,7 @@ width: 80%;
 width: 80%;
 }
 .copyright {
-text-align: center;
+float: center;
 font-size: 10pt;
 font-color: white;
 padding: 1%;

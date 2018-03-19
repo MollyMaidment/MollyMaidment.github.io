@@ -21,7 +21,11 @@ font-size: 12pt;
 width: 80%;
 }
 .home {
-  width: 80%;
+width: 80%;
+}
+.copyright {
+text-align: center;
+font-size: 10pt;
 }
 h1 {
 color: white;
